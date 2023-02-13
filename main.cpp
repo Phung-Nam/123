@@ -27,7 +27,7 @@ public:
 
 };
 
-
+asdasdasdasdasdasdasdas
 int main()
 {
     MyClass my;
